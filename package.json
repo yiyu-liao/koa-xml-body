@@ -1,6 +1,6 @@
 {
   "name": "koa-xml-body-v2",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "koa middleware to parse xml request body",
   "main": "lib/index.js",
   "scripts": {
